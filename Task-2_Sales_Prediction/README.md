@@ -177,7 +177,7 @@ The project includes:
 
 ## 👩‍💻 Author
 
-**Aayushi Kumari**
+**laxmi sihag**
 
 B.Tech – Computer Science Engineering (Artificial Intelligence & Machine Learning)
 

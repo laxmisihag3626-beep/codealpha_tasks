@@ -171,7 +171,7 @@ Run all notebook cells to reproduce the analysis.
 
 ## 👩‍💻 Author
 
-**Aayushi kumari**
+**laxmi sihag**
 
 B.Tech Computer Science Engineering (Artificial Intelligence & Machine Learning)
 

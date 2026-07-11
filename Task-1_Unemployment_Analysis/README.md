@@ -204,7 +204,7 @@ A detailed project report is available in the **reports** folder.
 
 ## 👩‍💻 Author
 
-**Aayushi kumari**
+**laxmi sihag**
 
 B.Tech (Computer Science Engineering - AI & ML)
 
